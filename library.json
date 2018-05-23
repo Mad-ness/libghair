@@ -1,0 +1,31 @@
+{
+    "name": "LibGHAir",
+    "keywords": [
+        "RF24",
+        "Network",
+        "Protocol"
+    ],
+    "description": "Arduino library for sending/receiving data using the RF24L01(+) modules",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Mad-ness/libghair.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Dmitrii Mostovshchikov",
+            "email": "dmadm2008@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "dependencies":
+    {
+        "name": "RF24",
+        "athours": "RF24",
+        "frameworks": "arduino"
+    },
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
