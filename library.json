@@ -6,6 +6,7 @@
         "Protocol"
     ],
     "description": "Arduino library for sending/receiving data using the RF24L01(+) modules",
+    "downloadUrl": "https://github.com/Mad-ness/libghair/archive/master.zip",
     "repository":
     {
         "type": "git",
